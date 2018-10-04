@@ -1,0 +1,28 @@
+Ejercicio 1;
+
+A: 
+function a (){
+    console.log ('Hola');
+}
+function b (){
+    a();
+}
+b();
+
+B:
+var hola = "hola";
+var hello = "hello";
+if (hola === hello){
+    console.log ("Lo son");
+} else {
+    console.log("No lo son");
+}
+
+C:
+function pulsado(){
+    var text = "pulsado";
+    console.log(text);
+}
+$.on(".button", "click", pulsado);
+console.log("empecemos");
+

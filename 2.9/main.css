@@ -1,0 +1,30 @@
+.body {
+   height: 100vh;
+   background-color: darkgreen;
+   color: white;
+   font-family: 'Pacifico', 'Courier New', Courier, monospace;
+   font-style: italic;
+   font-size: 24px;
+}
+.frasecita {
+   display: inline;
+   padding-right: 30px;
+}
+.blanco{
+  color: white;
+}
+.azul{
+  color: blue;
+}
+.rojo{
+  color: red;
+}
+.verde{
+  color: green;
+}
+.amarillo{
+  color: yellow;
+}
+.rosa{
+  color: pink;
+}
